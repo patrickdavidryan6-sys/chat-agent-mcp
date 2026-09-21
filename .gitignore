@@ -1,0 +1,7 @@
+node_modules/
+dist/
+workspace/*
+!workspace/.gitkeep
+*.log
+.env
+.DS_Store
